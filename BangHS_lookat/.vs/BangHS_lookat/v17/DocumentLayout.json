@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\BangHS_lookat\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\BangHS_lookat\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -18,6 +18,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

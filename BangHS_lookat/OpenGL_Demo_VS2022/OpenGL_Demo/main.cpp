@@ -103,6 +103,18 @@ float Alpha_1 = 0.0f;
 float Alpha_2 = 0.0f;
 // Biến truyền dữ liệu cho uniform
 int	view_mat_location;
+// Dùng biến đổi mô hình
+float
+r[] = { 0.0f, 0.0f, 0.0f },
+s[] = { 1.0f, 1.0f, 1.0f },
+t[] = { 0.0f, 0.0f, 0.0f };
+
+// Dùng kiểm tra tịnh tiến, quay, co giãn
+bool
+translated = false,
+rotated = false,
+scaled = false;
+
 
 // ---------------------------------------------------------------------------	
 string ReadShaderSourceFile(string fileName) {
@@ -228,10 +240,9 @@ void DisplayFunc(void)
 
 	model_mat_cpp = identity_mat4();
 	model_mat_cpp = rotate_y(Alpha_2) * rotate_x(Alpha_1) * translate(vec3(T[0], T[1], T[2]));
-	//Mặt bàn	
+	//Mặt bang	
 	matbang();
-	
-	//Chân trước trái		
+	//vien bang 
 	model_mat_cpp = rotate_y(Alpha_2) * rotate_x(Alpha_1) * translate(vec3(T[0], T[1], T[2])) *translate(vec3(-0.58, -0.0, -0.05));
 	viendoc();
 	model_mat_cpp = rotate_y(Alpha_2) * rotate_x(Alpha_1) * translate(vec3(T[0], T[1], T[2]))*translate(vec3(0.58, -0.0, -0.05));
@@ -244,6 +255,39 @@ void DisplayFunc(void)
 	glutSwapBuffers();
 }
 // ---------------------------------------------------------------------------	
+// Xử lý phím đặc biệt
+void SpecialFunc(int key, int x, int y)
+{
+	switch (key)
+	{
+	case GLUT_KEY_LEFT:
+		t[0] -= 0.05f;
+		translated = true;
+		break;
+
+	case GLUT_KEY_RIGHT:
+		t[0] += 0.05f;
+		translated = true;
+		break;
+	case GLUT_KEY_UP:
+		t[1] += 0.05f;
+		translated = true;
+		break;
+	case GLUT_KEY_DOWN:
+		t[1] -= 0.05f;
+		translated = true;
+		break;
+	case GLUT_KEY_ALT_R:
+		t[2] -= 0.05f;
+		translated = true;
+		break;
+	case GLUT_KEY_CTRL_R:
+		t[2] += 0.05f;
+		translated = true;
+		break;
+	}
+}
+// ------------------------------------------
 void ReshapeFunc(int Width, int Height)
 {
 	CurrentWidth = Width;

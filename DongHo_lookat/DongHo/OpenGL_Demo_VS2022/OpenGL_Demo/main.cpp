@@ -204,6 +204,7 @@ void kimphut()
 	glUniformMatrix4fv(model_mat_location, 1, GL_FALSE, instance.m);
 	glDrawArrays(GL_TRIANGLES, 0, 36);
 }
+//ve vien cho dong ho
 void viendoc()
 {
 	mat4 instance = identity_mat4();
@@ -263,14 +264,12 @@ void ReshapeFunc(int Width, int Height)
 // ---------------------------------------------------------------------------	
 void IdleFunc(void)
 {
-	// tính toán góc quay
-	Alpha += 0.05f;
-	Alpha_3 += 0.05f;
+	Alpha += 0.02f;
+	Alpha_3 += 0.02f;
 	if (Alpha > 360.0f) {
 		Alpha -= 360.0f;
 	}
 
-	// thiết lập cờ gọi hiển thị lại
 	glutPostRedisplay();
 }
 // ---------------------------------------------------------------------------

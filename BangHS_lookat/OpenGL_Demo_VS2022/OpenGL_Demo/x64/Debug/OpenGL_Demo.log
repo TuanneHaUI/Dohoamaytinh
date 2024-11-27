@@ -1,22 +1,22 @@
 ﻿  main.cpp
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'main.cpp')
   
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(185,50): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(185,45): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(185,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(198,51): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(198,46): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(198,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(205,51): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(205,45): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(205,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(235,119): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(235,106): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(237,119): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(237,107): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(239,120): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(239,113): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(241,118): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(241,112): warning C4305: 'argument': truncation from 'double' to 'float'
-  OpenGL_Demo.vcxproj -> C:\Users\ADMIN\Downloads\BangHS_lookat\OpenGL_Demo_VS2022\x64\Debug\OpenGL_Demo.exe
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(197,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(197,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(197,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(210,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(210,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(210,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(217,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(217,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(217,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(246,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(246,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(248,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(248,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(250,120): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(250,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(252,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\OpenGL_Demo\main.cpp(252,112): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGL_Demo.vcxproj -> C:\Users\ADMIN\Downloads\NguyenDaoQuocViet_2022602428\BangHS_lookat_tuần 2\OpenGL_Demo_VS2022\x64\Debug\OpenGL_Demo.exe
