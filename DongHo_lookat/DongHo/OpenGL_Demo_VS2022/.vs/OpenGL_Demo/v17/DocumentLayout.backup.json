@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|solutionrelative:OpenGL_Demo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\fs.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|solutionrelative:OpenGL_Demo\\fs.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\vs.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E0C7279F-2E42-4D6F-9981-C2515E3405F2}|OpenGL_Demo\\OpenGL_Demo.vcxproj|solutionrelative:OpenGL_Demo\\vs.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fs.shader",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\fs.shader",
+              "RelativeDocumentMoniker": "OpenGL_Demo\\fs.shader",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\fs.shader*",
+              "RelativeToolTip": "OpenGL_Demo\\fs.shader*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T15:29:05.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vs.shader",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\vs.shader",
+              "RelativeDocumentMoniker": "OpenGL_Demo\\vs.shader",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\vs.shader*",
+              "RelativeToolTip": "OpenGL_Demo\\vs.shader*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T15:28:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Demo\\main.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenDaoQuocViet_2022602428\\DongHo_lookat_tu\u1EA7n 2\\DongHo\\OpenGL_Demo_VS2022\\OpenGL_Demo\\main.cpp",
+              "RelativeToolTip": "OpenGL_Demo\\main.cpp",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T09:24:48.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
